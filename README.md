@@ -20,6 +20,6 @@ Now, we format the columns "Paying Customer" and "Do_Not_Contact" by replacing t
 # Step-4
 And the null values that we checked in the beginning are cleaned here by replacing Null values with an empty string.
 Alongside, we drop the columns which we analyzed and deem as not required.
-## Step-5
+# Step-5
 Finally, we reset the Index properly.
 
